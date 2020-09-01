@@ -244,7 +244,7 @@ def GradientBoostReg(Xtr, ytr, Xtest, ytest, mindepth, maxdepth):
             rfr_best_test = rfr_test_score
             rfr_best_depth = depth
 
-    print("GradientBoostingRegressor, best depth between 1 and " +
+    print("GradientBoostingRegressor, best depth between " + str(mindepth) + ' and ' +
           str(maxdepth) + " is " + str(rfr_best_depth))
 
     mrf = RandomForestClassifier(max_depth=rfr_best_depth)
