@@ -1,6 +1,6 @@
 # SCRIPT WITH COMMAND LINE INTERFACE TO TUNE THE HYPERPARAMETERS OF THE MODEL 
 
-# to exectute it in the command line, type e.g.: python nlp_model_parameter_testing.py -n_est=10 -max_d=2 -a=0.6
+# to exectute it in the command line, type e.g.: python nlp_model.py -n_est=10 -max_d=2 -a=0.6
 
 import pandas as pd
 import numpy as np
