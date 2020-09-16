@@ -1,5 +1,0 @@
-*.ipynb
-*.csv
-*.m
-!3._project_classification.ipynb
-!train.csv
