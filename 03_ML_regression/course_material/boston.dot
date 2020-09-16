@@ -1,8 +1,0 @@
-digraph Tree {
-node [shape=box, style="filled", color="black"] ;
-0 [label="X[5] <= 6.941\nsamples = 506\nvalue = -0.0", fillcolor="#fbece1"] ;
-1 [label="samples = 430\nvalue = -2.599", fillcolor="#ffffff"] ;
-0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="samples = 76\nvalue = 14.705", fillcolor="#e58139"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-}
