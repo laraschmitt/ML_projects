@@ -2,13 +2,14 @@
 Repository for small data science projects I conducted (mostly from the first weeks of the SPICED Academy Data Science Program). 
 The repo includes data exploration and data wrangling in Pandas, data vizualisation and the application of different Machine Learning models (Random Forest, Linear Regression, ARIMA).
 
-#### 1. Gapminder - Data Vizualisation with Matplotlib & Seaborn
-* dataset: 
-* Project to ....
+#### 1. Gapminder - Visual Data Analysis with Matplotlib & Seaborn
+* [gapminder dataset](https://www.gapminder.org/data/)
+* EDA: data wrnagling, descriptive statistics, exploratory plots (histogram, bar plot)
+* final visualization as an animated scatterplot
 
 #### 2. Titanic dataset - Random Forest Classification
 * dataset: 
-* data exploration ..
+* EDA:
 * implementation of a Random Forest Classification model with hyperparameter optimization 
 * CREATE HYPERLINK
 
