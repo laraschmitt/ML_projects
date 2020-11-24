@@ -1,4 +1,4 @@
-### Data Science Projects
+### Data Science/ Machine Learning Projects
 Repository for small data science projects I conducted (mostly from the first weeks of the SPICED Academy Data Science Program). 
 The repo includes data exploration and data wrangling in Pandas, data vizualisation and the application of different Machine Learning models (Random Forest, Linear Regression, ARIMA).
 
