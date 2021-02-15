@@ -27,7 +27,7 @@ The repo includes data exploration and data wrangling in Pandas, data vizualisat
 * predicting the overall demand of bikes depending on weather conditions, day of the week
 * EDA: exploring time series data in pandas and create time-related features out of timestamp, exploratory plots (time series plots) 
 * feature expansion (polynomial terms, interaction terms), feature selection, regularization (Lasso)
-* comparision of linear regressionand gradient boosting
+* comparision of linear regression and gradient boosting
 * hyperparameter optimization (grid search)
 
 <img src="03_ML_regression/EDA_plot_bike_rentals.png" alt="submission plots" width="400"/>
